@@ -1,0 +1,35 @@
+* {
+  font-family: fantasy;
+}
+
+h1 {
+  color: #fff;
+}
+
+.card {
+  max-width: 300px;
+  padding: 20px;
+  background-color: white;
+}
+
+h4 {
+  color: grey;
+}
+
+body {
+  background: url(../images/rickandmorty.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+span {
+  color: crimson;
+}
